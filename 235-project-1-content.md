@@ -9,7 +9,7 @@ Monochromania's simple controls allow it to be played on **_desktop computers or
 
 ## Theme
 ### Premise / Objective
-Make everything in each level a singular color.
+Make everything in each level a singular color, then make it to the goal.
 ### Mood
 Vibrant, Relaxed
 
