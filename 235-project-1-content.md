@@ -11,7 +11,7 @@ Monochromania's simple controls allow it to be played on **_desktop computers or
 ### Premise / Objective
 Make everything in each level a singular color.
 ### Mood
-Lively, Relaxed
+Vibrant, Relaxed
 
 ## Aesthetics
 - Being a game about color, Monochromania's palette will be expansive, and highly saturated. Its general style will be very minimalistic / cartoony.
