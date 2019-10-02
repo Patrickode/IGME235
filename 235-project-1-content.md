@@ -18,7 +18,7 @@ Vibrant, Relaxed
 - Sound will just as minimialistic as the graphics; snappy, satisfying, yet chilled-out clicks and hums. (Player moves, player fails, player succeeds) Music will be absent / ambient.
   - Perhaps the ambient music gets more full-bodied as the player gets closer to succeeding.
 ### Screenshot Mockups
-*screenshots go here*
+![](./mockup-screenshot-noise.png) ![](./mockup-screenshot-rainbow.png) ![Footage of a puzzle similar to Monochromania, from Megaman Battle Network 6](./inspiration-reference.gif)
  
  ## Gameplay
 The player must click or tap on squares of a grid adjacent to their character. (Each square is a different color; they may be randomly assigned, or a rainbow gradient, perhaps.) When a player clicks or taps on an adjacent square, their character moves to that square, and it turns into the player’s color, which is randomly determined at the start of the level. When the player moves onto a square that is already their color, it’s diluted, and the player must restart. (Maybe they don't have to restart, but now have to do the same for every other square.) There are start and end squares, and the player must get to the end after making every square the same color.
