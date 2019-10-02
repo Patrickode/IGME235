@@ -23,6 +23,8 @@ Vibrant, Relaxed
  ## Gameplay
 The player must click or tap on squares of a grid adjacent to their character. (Each square is a different color; they may be randomly assigned, or a rainbow gradient, perhaps.) When a player clicks or taps on an adjacent square, their character moves to that square, and it turns into the player’s color, which is randomly determined at the start of the level. When the player moves onto a square that is already their color, it’s diluted, and the player must restart. (Maybe they don't have to restart, but now have to do the same for every other square.) There are start and end squares, and the player must get to the end after making every square the same color.
 
+Alternatively, all tiles start as white, and when walked on, cycle through the saturated colors. This means the player may have to backtrack some times, but not others.
+
 - Controls: Click / Tap on the grid.
 - Onboarding: The very first level will have three squares in a line, a start square, an end square, and a normal square between them. An arrow or icon will encourage the player to click / tap the middle square, and then the end square, ending the level. The next level will have six squares, four in between the start and end; if the player goes straight to the exit, the uncolored squares will blink and the level will fail. This will demonstrate the goal and how to attempt it, and the game can start "proper."
   - While the mechanics and goal are simple, the planning and experimentation required to find a route through each square to the goal can increase quite dramatically, and fast.
